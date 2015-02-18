@@ -173,7 +173,7 @@
     
     // loop da nuvens
     
-   /* for (CCNode *bush in _bushs){
+    for (CCNode *bush in _bushs){
         
         // movendo o matto
         
@@ -205,7 +205,7 @@
             
             
         }
-    */
+    
     
     
     NSMutableArray *offScreenObstacles = nil;
