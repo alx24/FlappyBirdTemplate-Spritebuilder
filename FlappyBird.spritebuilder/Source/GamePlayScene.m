@@ -17,7 +17,7 @@
 -(void)update:(CCTime)delta
 {
     // put update code here
-    [self addObstacle];
+   // [self addObstacle];
 }
 
 // put new methods here
